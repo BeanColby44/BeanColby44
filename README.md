@@ -3,43 +3,7 @@
 
 # 👋 Hi, I'm Colby Bean!
 
-### 🚀 Senior Full Stack Software Engineer
-### 💻 Full Stack | AI Engineering | Cloud & DevOps
-
-**Building great software, solving real problems, and turning ideas into reality.**
-
-📍 Winter Park, Florida, USA  
-💼 7+ Years of Software Engineering Experience  
-🌎 Open to Remote Opportunities
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/colby-bean-922179449/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colbybean321@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BeanColby44)
-
 </div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Senior Full Stack Software Engineer** with over **7 years of experience** building scalable web applications, enterprise systems, mobile applications, and cloud-based solutions.
-
-I enjoy working across the full software development lifecycle, from creating modern user interfaces to designing backend services, integrating APIs, and deploying applications to production.
-
-My main technologies include **Java, Spring Boot, Python, Django, React, Next.js, TypeScript, C#, .NET, and AWS**.
-
-I'm also passionate about **Generative AI, LLMs, AI agents, and workflow automation**. I enjoy exploring new technologies and finding better ways to build useful software.
-
-I believe great engineering is about more than writing code. It's about understanding problems, working with people, and delivering solutions that make a real difference.
-
-- 🔭 Building scalable full-stack and AI-powered applications
-- 🤖 Exploring AI agents, LLMs, RAG, and intelligent automation
-- ☁️ Working with cloud technologies and DevOps
-- 🛠️ Using Claude Code, Cursor, and Codex
-- 🌱 Always learning and improving my skills
-- 🤝 Open to collaboration and new opportunities
-
----
 
 # 🛠️ My Tech Stack
 
@@ -143,27 +107,6 @@ I believe great engineering is about more than writing code. It's about understa
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
-
-## 💼 Professional Experience
-
-**Zco Corporation** — Full Stack Engineer  
-Nov 2024 – Oct 2026
-
-**Arbisoft** — Full Stack Engineer  
-Oct 2021 – Oct 2024
-
-**Designli** — Software Engineer  
-Jul 2019 – Sep 2021
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-University of Florida | 2015 – 2019
-
----
 
 ## 📊 GitHub Statistics
 
@@ -178,21 +121,20 @@ University of Florida | 2015 – 2019
 </div>
 
 ---
+### 🚀 Senior Full Stack Software Engineer
+### 💻 Full Stack | AI Engineering | Cloud & DevOps
 
-## 🤝 Let's Connect
+**Building great software, solving real problems, and turning ideas into reality.**
 
-I'm always interested in connecting with developers, founders, and teams who enjoy building meaningful products.
+📍 Winter Park, Florida, USA  
+💼 7+ Years of Software Engineering Experience  
+🌎 Open to Remote Opportunities
 
-If you'd like to collaborate, discuss technology, or explore a software engineering opportunity, feel free to reach out!
-
-📧 **Email:** [colbybean321@gmail.com](mailto:colbybean321@gmail.com)
-
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/colby-bean-922179449/)
-
-💻 **GitHub:** [BeanColby44](https://github.com/BeanColby44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/colby-bean-922179449/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colbybean321@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BeanColby44)
 
 ---
-
 <div align="center">
 
 ### 💡 Keep Learning. Keep Building. Keep Improving.
