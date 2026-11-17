@@ -116,8 +116,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeanColby44&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BeanColby44&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
